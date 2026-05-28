@@ -1,0 +1,22 @@
+{
+  "battery_cells": {
+    "src_pixels": 1329828,
+    "out_pixels": 33180
+  },
+  "inlet": {
+    "src_pixels": 1159,
+    "out_pixels": 30
+  },
+  "outlet": {
+    "src_pixels": 1159,
+    "out_pixels": 30
+  },
+  "design_space": {
+    "src_pixels": 1552482,
+    "out_pixels": 38730
+  },
+  "bolts": {
+    "src_pixels": 25714,
+    "out_pixels": 641
+  }
+}
